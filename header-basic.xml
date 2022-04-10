@@ -1,0 +1,5 @@
+<header>
+  <b:section class='header' id='header' maxwidgets='1' showaddelement='no'>
+    <b:widget id='Header1' locked='true' title='' type='Header'></b:widget>
+  </b:section>
+</header>
