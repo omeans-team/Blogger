@@ -1,0 +1,10 @@
+<head>
+    <b:include data='blog' name='all-head-content' />
+    <title><data:blog.pageTitle/></title>
+    <meta content='width=device-width, initial-scale=1' name='viewport' />
+    <b:skin>
+      <![CDATA[ 
+      /* Custom CSS rules goes here... */
+      ]]>
+    </b:skin>
+</head>
