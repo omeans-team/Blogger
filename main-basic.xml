@@ -1,0 +1,3 @@
+<b:section class='main' id='main' showaddelement='yes'>
+  <b:widget id='Blog1' locked='true' title='Blog Posts Section' type='Blog' />
+</b:section>
